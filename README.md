@@ -16,8 +16,13 @@ using keras.Squential Model to classify the type of image into 10 different cate
 
 # Linear Regression
 
-Linear Regression to predict housing pricses using custom loss function and gradient desecent
+Linear Regression to predict ice cream sales using custom loss function and gradient desecent
 
+# Multi Variable Linear Regression
+Multi Variable Linear Regression to predict housing pricses using sklearn lib
+
+# Text Preprocessing
+Cleaning of text present in the form of text file, string and web scrapping
 ### Projects at
 
 URL: https://github.com/OkabeRintaro10/MachineLearningProjects/tree/master
