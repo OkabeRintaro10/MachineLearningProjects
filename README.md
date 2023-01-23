@@ -14,6 +14,9 @@ using Keras and Sequential model to find classify the type of garment in the ima
 
 using keras.Squential Model to classify the type of image into 10 different catergories using CNN
 
+# Pneumonia Detection
+Detecting the presence of pneumonia using CNN
+
 # Linear Regression
 
 Linear Regression to predict ice cream sales using custom loss function and gradient desecent
