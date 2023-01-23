@@ -23,6 +23,3 @@ Multi Variable Linear Regression to predict housing pricses using sklearn lib
 
 # Text Preprocessing
 Cleaning of text present in the form of text file, string and web scrapping
-### Projects at
-
-URL: https://github.com/OkabeRintaro10/MachineLearningProjects/tree/master
