@@ -44,4 +44,6 @@ Thumbs.db
 
 Checkpoints
 Models
-datasets/__MACOSX/
+Deep Learning/logs/
+Deep Learning/training_1
+*.DS_Store
