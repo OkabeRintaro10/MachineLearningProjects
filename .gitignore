@@ -47,3 +47,4 @@ Models
 Deep Learning/logs/
 Deep Learning/training_1
 *.DS_Store
+dataset/
